@@ -217,10 +217,4 @@ University of Hertfordshire
 Email: p.sarhadi@herts.ac.uk
 
 
-## Acknowledgements
-
-This research was conducted at the School of Physics, Engineering and Computer Science, University of Hertfordshire, UK.
-
----
-
-**Note:** For questions or issues, please open an issue on GitHub or contact the authors directly.
+**Note:** For questions or issues, please open an issue on GitHub or contact us.
