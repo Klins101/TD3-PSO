@@ -19,10 +19,10 @@ Deep reinforcement learning provides a model-free approach to learning control p
 - **24% improvement** in control smoothness (IACER)
 - **16% lower** peak control effort
 
-![Learning Curves](learning_curves.pdf)
+![Learning Curves](learning_curves.png)
 *Learning performance comparison across 5 random seeds on CSTR control*
 
-![Step Response](s_compare.pdf)
+![Step Response](s_compare.png)
 *CSTR step response comparison showing improved transient behaviour*
 
 ### Crazyflie Nano-Quadcopter
@@ -30,10 +30,10 @@ Deep reinforcement learning provides a model-free approach to learning control p
 - Successful sim-to-real transfer on physical hardware
 - Faster convergence to hover equilibrium
 
-![Crazyflie Simulation](crazyflie_comparison.pdf)
+![Crazyflie Simulation](crazyflie_comparison.png)
 *Simulation comparison for altitude control*
 
-![Crazyflie Hardware](hardware_comparison.pdf)
+![Crazyflie Hardware](hardware_comparison.png)
 *Hardware deployment on Crazyflie 2.1+ nano-quadcopter*
 
 ## Installation
